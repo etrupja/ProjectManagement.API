@@ -72,16 +72,7 @@ Console.WriteLine("Shuma (MathHelperStatic)  ==>>  " + mathHelperStaticShuma);
 
 string dega = "imi";
 Console.WriteLine(dega.ToUpper());
-
-DaysOfWeek.Monday
-
 2.Reverse(shuma);
 
-
 string stop = "";
-
-
-
-
-
 bool isTrue = false;
